@@ -1,0 +1,5 @@
+
+@url = http://localhost:8800/api
+DELETE {{url}}/users/64266177c5dec0f18d5be6ce
+Content-Type: application/json
+cookie:accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MjY2MTc3YzVkZWMwZjE4ZDViZTZjZSIsImlzU2VsbGVyIjpmYWxzZSwiaWF0IjoxNjgwMjQ4MDk2fQ.KVJB87SX9b6jd9i_G1YgRUR3altWpyZw08ZqtFoAPNE
