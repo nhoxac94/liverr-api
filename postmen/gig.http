@@ -1,0 +1,13 @@
+@url = http://localhost:8800/api/gigs
+POST {{url}}/
+Content-Type: application/json
+
+{
+  "username" : "user3",
+  "email" : "user3@gmail.com",
+  "password" : "user3",
+  "country" : "USA"
+}
+
+###
+
